@@ -1,0 +1,13 @@
+.component-display {
+  background: #303030;
+  color: #fff;
+  text-align: right;
+  padding: 15px 20px 10px 15px;
+  width: inherit;
+  border-radius: 15px 15px 0 0;
+}
+
+.component-display > div {
+  font-size: 3em;
+  font-weight: bold;
+}
