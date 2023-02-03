@@ -4,9 +4,8 @@
   flex: 1 0 auto;
 }
 
-btn:hover {
+.btn:hover {
   cursor: pointer;
-  background: #ccc;
 }
 
 .component-btn.wide {
